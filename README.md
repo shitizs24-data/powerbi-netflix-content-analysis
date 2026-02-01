@@ -5,13 +5,14 @@ This project analyzes Netflix’s content catalog to understand how the platform
 ---
 
 ## Problem Statement
-With a rapidly growing content library, it becomes difficult to understand:
-- What type of content Netflix focuses on
-- How content is distributed across countries and genres
-- Whether the platform is more movie-driven or series-driven
-- How content additions have evolved over time
+Netflix hosts a large and diverse content library spread across countries, genres, and formats.
+Without a consolidated view, it is difficult to quickly understand:
+- The balance between Movies and TV Shows
+- Dominant content ratings and categories
+- Country-wise content distribution
+- How Netflix’s content additions have evolved over time
 
-This dashboard aims to simplify these questions through visual analysis.
+This dashboard solves this by presenting a single-page analytical overview of Netflix’s content catalog.
 
 ---
 
@@ -57,6 +58,9 @@ The dataset was cleaned and prepared for visualization in Power BI.
 
 ## Dashboard Preview
 
+This project is presented as a **single-page overview dashboard** designed to provide a consolidated view of Netflix’s content distribution, trends, and composition.
+
+![Netflix Dashboard Overview](Dashboard_Screenshots/01_Netflix_Overview_Dashboard.png)
 
 ---
 
@@ -66,5 +70,5 @@ The dataset was cleaned and prepared for visualization in Power BI.
 ---
 
 ## Notes
-This project focuses on exploratory data analysis and visualization to understand content patterns on a streaming platform using Power BI.
+This project focuses on exploratory data analysis and single-page dashboard design to summarize content patterns on a streaming platform using Power BI.
 
